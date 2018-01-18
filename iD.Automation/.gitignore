@@ -1,0 +1,6 @@
+iDAutomatedUITests.v11.suo
+iDAutomatedUITests/**/obj/
+iDAutomatedUITests/ApplicationSettings/ApplicationSettings.resx
+iDAutomatedUITests/ApplicationSettings/ApplicationSettings.Designer.cs
+iDAutomatedUITests/bin/*
+ToDebug/*
